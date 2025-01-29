@@ -1,7 +1,7 @@
 
-# Json2HTML    [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# json-2-html    [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-json2html is a Python library that fetches data from APIs, allows users to define the structure of the JSON response, and generates responsive HTML pages to display the data in a user-friendly format.
+json-2-html is a Python library that fetches data from APIs, allows users to define the structure of the JSON response, and generates responsive HTML pages to display the data in a user-friendly format.
 
 
 
@@ -64,7 +64,7 @@ json2html is a Python library that fetches data from APIs, allows users to defin
 You can use this example code!
 
 ```python
-from json2html import ApiHandler, HtmlGenerator, JsonDefinition, DisplayType
+from json-2-html import ApiHandler, HtmlGenerator, JsonDefinition, DisplayType
 
 # API address
 api_url = "https://dog.ceo/api/breeds/image/random"
