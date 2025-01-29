@@ -1,2 +1,1 @@
-# Pyig
-Pyig is a library that is a bridge between Python and Zig language.
+## json2html is a Python library that fetches data from APIs, allows users to define the structure of the JSON response, and generates responsive HTML pages to display the data in a user-friendly format.
